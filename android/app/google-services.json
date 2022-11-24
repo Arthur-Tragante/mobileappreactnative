@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "878492911024",
+    "firebase_url": "https://mastermobile-871e7.firebaseio.com",
+    "project_id": "mastermobile-871e7",
+    "storage_bucket": "mastermobile-871e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878492911024:android:e6ca5448b1f3b79e",
+        "android_client_info": {
+          "package_name": "com.alternativasistemas.mastermobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878492911024-3gar7ebv52bn4pciecjq91323ncqca78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1rHWvb8LFN-OswPmor4A_9UUVwClCUOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878492911024-3gar7ebv52bn4pciecjq91323ncqca78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
